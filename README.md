@@ -1,6 +1,7 @@
 # Lab1_tech_prog
 -Examples with DACL, ACE: 
 https://docs.microsoft.com/en-us/windows/win32/secauthz/access-control
+
 https://docs.microsoft.com/en-us/windows/win32/api/winbase/nf-winbase-setfilesecuritya?redirectedfrom=MSDN
 
 -Set permission for object(Files, folder) with ACE String:
