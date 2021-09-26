@@ -8,7 +8,7 @@ https://docs.microsoft.com/en-us/windows/win32/api/winbase/nf-winbase-setfilesec
 -Security Descriptor String Format:
 https://docs.microsoft.com/en-us/windows/win32/secauthz/security-descriptor-string-format
 
--Set permission for object(Files, folder) with ACE String:
+-Set permission for objects(files, folder) with ACE String:
 https://docs.microsoft.com/en-us/windows/win32/secauthz/ace-strings
 
 -Crypto Library: https://www.openssl.org/source/ for exercise 1a(C++)
