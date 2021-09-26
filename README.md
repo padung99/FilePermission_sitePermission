@@ -5,6 +5,9 @@ https://docs.microsoft.com/en-us/windows/win32/secauthz/access-control
 
 https://docs.microsoft.com/en-us/windows/win32/api/winbase/nf-winbase-setfilesecuritya?redirectedfrom=MSDN
 
+-Security Descriptor String Format:
+https://docs.microsoft.com/en-us/windows/win32/secauthz/security-descriptor-string-format
+
 -Set permission for object(Files, folder) with ACE String:
 https://docs.microsoft.com/en-us/windows/win32/secauthz/ace-strings
 
